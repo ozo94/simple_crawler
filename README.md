@@ -20,7 +20,7 @@ URL格式：
 
 ![none](http://omouah54e.bkt.clouddn.com/sipder/readme/URL.bmp)
 
-    非完整URL，在代码中我们还需要进行拼接
+非完整URL，在代码中我们还需要进行拼接
 
 数据格式：
 
@@ -34,6 +34,6 @@ URL格式：
 
 页面编码：
 
-	找到网页的head（审查网页任意位置），找到网页的编码UTF-8
+找到网页的head（审查网页任意位置），找到网页的编码UTF-8
 
 ![none](http://omouah54e.bkt.clouddn.com/sipder/readme/page_encode.bmp)
