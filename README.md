@@ -11,15 +11,21 @@
 ### 目标
 百度百科Python词条相关词条的网页 -标题和简介
 入口页：http://baike.baidu.com/item/Python
+
 URL格式：
+
    词条页面URL:/view/20965.htm
+
        ![none](http://omouah54e.bkt.clouddn.com/sipder/readme/URL.bmp)
        非完整URL，在代码中我们还需要进行拼接
+
 数据格式：
+
    标题：
        ![none](http://omouah54e.bkt.clouddn.com/sipder/readme/%E6%A0%87%E9%A2%98.bmp)
    简介：
        ![none](http://omouah54e.bkt.clouddn.com/sipder/readme/%E7%AE%80%E4%BB%8B.bmp)
+
 页面编码：
     找到网页的head（审查网页任意位置），找到网页的编码UTF-8
 		![none](http://omouah54e.bkt.clouddn.com/sipder/readme/page_encode.bmp)
